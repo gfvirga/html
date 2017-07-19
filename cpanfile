@@ -1,3 +1,3 @@
-requires ‘cpan::mod’;
-requires ‘Dancer’;
-requires ‘YAML’;
+requires 'cpan::mod'
+requires 'Dancer'
+requires 'YAML';
