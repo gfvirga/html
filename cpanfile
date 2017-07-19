@@ -1,4 +1,4 @@
-CGI 
-CGI::Carp
-HTTP::Request
-CGI::Simple::Standard
+'CGI'
+'CGI::Carp'
+'HTTP::Request'
+'CGI::Simple::Standard'
