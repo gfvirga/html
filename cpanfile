@@ -1,4 +1,3 @@
-requires 'CGI'
-requires 'CGI::Carp'
-requires 'HTTP::Request'
-requires 'CGI::Simple::Standard'
+requires ‘cpan::mod’;
+requires ‘Dancer’;
+requires ‘YAML’;
