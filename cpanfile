@@ -1,3 +1,3 @@
 requires "CGI";
 requires "JSON";
-requires "Net::SMTP";
+requires "DBI";
